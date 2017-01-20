@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/goftp/ftpd/web"
+	"github.com/wenhuang1003/ftpd/web"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/util"
 )
